@@ -1,2 +1,2 @@
-console.log("Hola mundo!\n");
-//comentario prueba
+console.log("Hola mundo y openshift!\n");
+//probando openshift
